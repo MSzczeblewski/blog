@@ -1,2 +1,4 @@
 .hugo_build.lock
 public/
+start.sh
+build.sh
