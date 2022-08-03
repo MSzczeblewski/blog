@@ -5,11 +5,11 @@ paginate = 5
 
 [params]
   contentTypeName = "posts"
-  themeColor = "pink"
+  themeColor = "orange"
   showMenuItems = 0
   fullWidthTheme = false
   centerTheme = true
-  favicon = "favicon.ico"
+  favicon = "favicon.png"
 [languages]
   [languages.en]
     title = "MSzczeblewski"
