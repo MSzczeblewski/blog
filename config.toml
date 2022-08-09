@@ -6,17 +6,17 @@ paginate = 5
 [params]
   contentTypeName = "posts"
   themeColor = "orange"
-  showMenuItems = 0
+  showMenuItems = 1 #This along with the commented out menus is hiding the menu bar currently 
   fullWidthTheme = false
   centerTheme = true
   favicon = "favicon.png"
 [languages]
   [languages.en]
     title = "MSzczeblewski"
-    subtitle = "A place to cronicle my tech journey"
+    subtitle = "My Tech Journey"
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
+#    menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read More"
 
@@ -26,9 +26,9 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+#        identifier = "about"
+#        name = "About"
+#        url = "/about"
 #      [[languages.en.menu.main]]
 #        identifier = "showcase"
 #        name = "Showcase"
