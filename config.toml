@@ -1,4 +1,4 @@
-baseurl = "https://mszczeblewski.github.io/"
+baseurl = "http://mszczeblewski.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -16,7 +16,7 @@ paginate = 5
     subtitle = "My Tech Journey"
     keywords = ""
     copyright = ""
-#    menuMore = "Show more"
+    menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read More"
 
@@ -26,9 +26,9 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-#        identifier = "about"
-#        name = "About"
-#        url = "/about"
+        identifier = "about"
+        name = "About"
+        url = "/about"
 #      [[languages.en.menu.main]]
 #        identifier = "showcase"
 #        name = "Showcase"
